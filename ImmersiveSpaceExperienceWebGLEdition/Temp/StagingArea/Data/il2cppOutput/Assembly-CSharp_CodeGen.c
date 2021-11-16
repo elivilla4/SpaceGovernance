@@ -1,0 +1,719 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 System.Void CameraCtrl::Start()
+extern void CameraCtrl_Start_m594A5ECE9B636F648ADF97F6D7E0F19F0F766DDA ();
+// 0x00000002 System.Void CameraCtrl::Update()
+extern void CameraCtrl_Update_m44A645567C4EA1FE9D83865C169AB3C4C85C6F33 ();
+// 0x00000003 System.Void CameraCtrl::.ctor()
+extern void CameraCtrl__ctor_mE1958D51FC29F7FC95C26B541C488D51229D1E73 ();
+// 0x00000004 System.Void SpinFree::Update()
+extern void SpinFree_Update_mC974FA7A4A4B8E839F1ED8E84706792851D2D0C8 ();
+// 0x00000005 System.Void SpinFree::.ctor()
+extern void SpinFree__ctor_m7345DDA5D7F5CD913DF275DC836B90D3FBB5C714 ();
+// 0x00000006 System.Void BrightnessControl::Start()
+extern void BrightnessControl_Start_m7E584731FD2B9F0829D2C31F593DAEA9F651A7CF ();
+// 0x00000007 System.Void BrightnessControl::Update()
+extern void BrightnessControl_Update_m681AC78FC216DEB481134C6E01207E89FB040244 ();
+// 0x00000008 System.Void BrightnessControl::.ctor()
+extern void BrightnessControl__ctor_m0E3913E689552E4D5531201A011E6A1B1634D99E ();
+// 0x00000009 System.Void ButtonControl::Start()
+extern void ButtonControl_Start_m9CBD95F2112C11CA4941275B5950010C66BC5794 ();
+// 0x0000000A System.Void ButtonControl::OnTriggerEnter(UnityEngine.Collider)
+extern void ButtonControl_OnTriggerEnter_m0A1345E51DDACB8A2F3A6A3A642A34DC94C84AF2 ();
+// 0x0000000B System.Void ButtonControl::.ctor()
+extern void ButtonControl__ctor_mD4415647A7E956D92750D2E75F6DB76707014075 ();
+// 0x0000000C System.Void DimLights::Start()
+extern void DimLights_Start_m58B1C9ABFAE518BB1D4BD56EFC15E2E1BA2E6238 ();
+// 0x0000000D System.Void DimLights::Update()
+extern void DimLights_Update_mF39CC93F44DC1B0578DF574BE4977A4E5EC1C2BB ();
+// 0x0000000E System.Void DimLights::Dim()
+extern void DimLights_Dim_mB15030C219254CDF737A94F4C890C873B75EC543 ();
+// 0x0000000F System.Void DimLights::.ctor()
+extern void DimLights__ctor_mF72E3A43C9A34FAA147DB45D306A7D7DD093BBAA ();
+// 0x00000010 System.Void DoorOpen::Start()
+extern void DoorOpen_Start_mD66A6FE0665F46B9C8B499149597BDB62F17DD80 ();
+// 0x00000011 System.Void DoorOpen::Update()
+extern void DoorOpen_Update_m4C9D2FE83E7583D91529A8AD8E305BBE7ED4B6E8 ();
+// 0x00000012 System.Void DoorOpen::OnTriggerEnter(UnityEngine.Collider)
+extern void DoorOpen_OnTriggerEnter_mB59819C2D344EFF58D5EF50FAD5F815C31C0D9DB ();
+// 0x00000013 System.Void DoorOpen::.ctor()
+extern void DoorOpen__ctor_mD8599BA8CF3E7C79156EABCB28F4F1CDFDB76BE7 ();
+// 0x00000014 System.Void FadeToBlack::Start()
+extern void FadeToBlack_Start_m1A7AEB3B03C79037BB694216FE95472BF825FA65 ();
+// 0x00000015 System.Void FadeToBlack::Update()
+extern void FadeToBlack_Update_mD132AED2FEDC2C3A136D0920ED11F469C6B475B6 ();
+// 0x00000016 System.Collections.IEnumerator FadeToBlack::Fade(System.Single)
+extern void FadeToBlack_Fade_m5369B671123E2905933C1D3A956880BCB092C79B ();
+// 0x00000017 System.Collections.IEnumerator FadeToBlack::ShowText()
+extern void FadeToBlack_ShowText_mAFD3AAF9AA20E6ADE51AD7639265AF1312A11BA8 ();
+// 0x00000018 System.Void FadeToBlack::StartFade()
+extern void FadeToBlack_StartFade_mD51F891B964DEE1548B4F875297776501F19F8C4 ();
+// 0x00000019 System.Void FadeToBlack::.ctor()
+extern void FadeToBlack__ctor_mE32C63ACFBDEBC50AFB0BE40EB49A4BD7D554FD6 ();
+// 0x0000001A System.Void GenerateStars::Generate()
+extern void GenerateStars_Generate_m98C616F09F9126E101B1656C405F8F51042C1AB1 ();
+// 0x0000001B System.Void GenerateStars::.ctor()
+extern void GenerateStars__ctor_m4252624FD53209C46692B10B5EF1F7C34A92C473 ();
+// 0x0000001C System.Void GuardianSystem::Update()
+extern void GuardianSystem_Update_m11EA648195F4F336848D33FCC2F2FF329E012849 ();
+// 0x0000001D System.Void GuardianSystem::.ctor()
+extern void GuardianSystem__ctor_m6C894486BBA0871505B7DAE0D8B0ADEB3083BCA9 ();
+// 0x0000001E System.Void Tags::.ctor()
+extern void Tags__ctor_mE9B3DD2F3E217D37BFD97436E9795B8E5BA34EB6 ();
+// 0x0000001F System.Void Tags::.cctor()
+extern void Tags__cctor_m5E3FDDDC038729C1A49F1C347BDD5BB33F5F485E ();
+// 0x00000020 System.Void LightControl::Start()
+extern void LightControl_Start_m1AC70EE623BFBAD8F163047DE739FC7B58571972 ();
+// 0x00000021 System.Void LightControl::Update()
+extern void LightControl_Update_m2EB1E51D944428497D8C62F1CEA3A7784E371F03 ();
+// 0x00000022 System.Void LightControl::TurnOn(System.Single)
+extern void LightControl_TurnOn_m36850ACE2E99F141571DDE6CA6A8ECCEF57F249E ();
+// 0x00000023 System.Void LightControl::TurnOff(System.Single)
+extern void LightControl_TurnOff_m03BD46A295BCDB36F52F96A95A2BAFEA6EE882DC ();
+// 0x00000024 System.Void LightControl::.ctor()
+extern void LightControl__ctor_m84E66D44E6B64978E260AE9375417F6CD0CA51CE ();
+// 0x00000025 System.Void Orbit::Start()
+extern void Orbit_Start_m29846F74CC9F6B37BEA12CE59F8ADF0AF1CC0F2A ();
+// 0x00000026 System.Void Orbit::Update()
+extern void Orbit_Update_m8CC6526929FE2DCCFA5251E828DF4C34A4732717 ();
+// 0x00000027 System.Void Orbit::.ctor()
+extern void Orbit__ctor_m54BA8B11461437C0752FE2C51705B5F04C8E238D ();
+// 0x00000028 System.Void Translation::Update()
+extern void Translation_Update_mE73C7B0E78E8DE9DB7CF09BB75738A0314A50CE8 ();
+// 0x00000029 System.Void Translation::.ctor()
+extern void Translation__ctor_m91DF264DC485E0399A3D9D7D4982E9CB7FF25C00 ();
+// 0x0000002A System.Void WindowAnimTimingManager::Start()
+extern void WindowAnimTimingManager_Start_mA9CCC261EDDC875E1BB0D853BB756375F82E6C09 ();
+// 0x0000002B System.Void WindowAnimTimingManager::Update()
+extern void WindowAnimTimingManager_Update_mFDE05CC818FC9B372F4C953CEC6C385D9845242E ();
+// 0x0000002C System.Void WindowAnimTimingManager::OpenWindow(System.Single)
+extern void WindowAnimTimingManager_OpenWindow_mFD79703572F323D4696DD341E78C31473F84B4D9 ();
+// 0x0000002D System.Collections.IEnumerator WindowAnimTimingManager::StopOpening()
+extern void WindowAnimTimingManager_StopOpening_m98BDF31C1C9E1DE9EE3914BD6CEECE168046E9AF ();
+// 0x0000002E System.Void WindowAnimTimingManager::.ctor()
+extern void WindowAnimTimingManager__ctor_m89D7A5DC9CD35EE9AFDD5A8765A70C1C6EAECBD8 ();
+// 0x0000002F System.Void ControllerInteraction::Awake()
+extern void ControllerInteraction_Awake_mFB4A5A18191FCBF605D8E1CE6899CAC9A5679555 ();
+// 0x00000030 System.Void ControllerInteraction::Start()
+extern void ControllerInteraction_Start_m4BB5530A205474C82C8372B5DC9741F7179E2741 ();
+// 0x00000031 System.Void ControllerInteraction::Update()
+extern void ControllerInteraction_Update_mCE9248283AA340DF1F988844D86FACD5CB51A9BB ();
+// 0x00000032 System.Void ControllerInteraction::OnTriggerEnter(UnityEngine.Collider)
+extern void ControllerInteraction_OnTriggerEnter_m75AF0AF3C7B5B76D2D4B08A1B8B6714B6D7A9279 ();
+// 0x00000033 System.Void ControllerInteraction::OnTriggerExit(UnityEngine.Collider)
+extern void ControllerInteraction_OnTriggerExit_mEA64F4ED316D64A41CA70B91E34E84845DB3B287 ();
+// 0x00000034 System.Void ControllerInteraction::Pickup()
+extern void ControllerInteraction_Pickup_mA6FEADA21A242FF3E1142F1EFD024E4A6DCC368D ();
+// 0x00000035 System.Void ControllerInteraction::Drop()
+extern void ControllerInteraction_Drop_m8FA92B45992D61BB952BB083718CB8614481F0C0 ();
+// 0x00000036 UnityEngine.Rigidbody ControllerInteraction::GetNearestRigidBody()
+extern void ControllerInteraction_GetNearestRigidBody_m37FC4E2FAD2C631408B9260896A3BA7D27D72166 ();
+// 0x00000037 System.Void ControllerInteraction::.ctor()
+extern void ControllerInteraction__ctor_m4F47C52BB963AF8B68B4506363C31CCAC8CAB213 ();
+// 0x00000038 System.Boolean FreeFlightController::get_inDesktopLike()
+extern void FreeFlightController_get_inDesktopLike_mC9A1E4D4E94F317851AFECFC3B64E747A28D1DE1 ();
+// 0x00000039 System.Void FreeFlightController::Start()
+extern void FreeFlightController_Start_m87B577A19AC9A922F18AA1543551E09CEE27834C ();
+// 0x0000003A System.Void FreeFlightController::onVRChange(WebVRState)
+extern void FreeFlightController_onVRChange_mA0703B167869904CD74319D58705BD661EBEC9E1 ();
+// 0x0000003B System.Void FreeFlightController::onVRCapabilitiesUpdate(WebVRDisplayCapabilities)
+extern void FreeFlightController_onVRCapabilitiesUpdate_mE624C4B3E509C2957152775D205645506333BD4B ();
+// 0x0000003C System.Void FreeFlightController::Update()
+extern void FreeFlightController_Update_mC06FCDC114F7887C9CC917C6495018D96ED80511 ();
+// 0x0000003D System.Void FreeFlightController::DisableEverything()
+extern void FreeFlightController_DisableEverything_m1FCF4E33230A1ADA7E35BC8C84EB1DD1B442F19E ();
+// 0x0000003E System.Void FreeFlightController::EnableAccordingToPlatform()
+extern void FreeFlightController_EnableAccordingToPlatform_m251A6907A2F04B1AA39718EAB57496D8AE2A0897 ();
+// 0x0000003F System.Single FreeFlightController::ClampAngle(System.Single,System.Single,System.Single)
+extern void FreeFlightController_ClampAngle_mA92D255DC0CE6F488E2946CB5C8098387B7821A9 ();
+// 0x00000040 System.Void FreeFlightController::.ctor()
+extern void FreeFlightController__ctor_m6844B029C16372F3CCABC9C288EAE7E129CE7F46 ();
+// 0x00000041 System.Void WebVRCamera::PostRender()
+extern void WebVRCamera_PostRender_m6E39CC4ED91F421156AED0378E09DC104A4BBA0F ();
+// 0x00000042 System.Collections.IEnumerator WebVRCamera::endOfFrame()
+extern void WebVRCamera_endOfFrame_m668C40FF8018FC556F7ABF571C71D1A58DD71250 ();
+// 0x00000043 System.Void WebVRCamera::OnEnable()
+extern void WebVRCamera_OnEnable_mF1817E7123704779F5E622EE52F61994EE44CCCB ();
+// 0x00000044 System.Void WebVRCamera::Update()
+extern void WebVRCamera_Update_mCB406B843C1D2A660F1D49C08BF3275E3B1301A9 ();
+// 0x00000045 System.Void WebVRCamera::onVRChange(WebVRState)
+extern void WebVRCamera_onVRChange_m910E475D87AB74E44FE2BF99B2BA3AEE5FAC3031 ();
+// 0x00000046 System.Void WebVRCamera::onHeadsetUpdate(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
+extern void WebVRCamera_onHeadsetUpdate_mB48AB46C7D94551585E27FDEEE6C8939296A6B31 ();
+// 0x00000047 System.Void WebVRCamera::.ctor()
+extern void WebVRCamera__ctor_m3E2A58E4681062DB9202FA6DEE80A19DFEE1858A ();
+// 0x00000048 System.Void WebVRControllerButton::.ctor(System.Boolean,System.Single)
+extern void WebVRControllerButton__ctor_mD0E47D00850C6296F2D829F03551D235DCB1C72E ();
+// 0x00000049 System.Void WebVRController::UpdateButtons(WebVRControllerButton[])
+extern void WebVRController_UpdateButtons_m47D14B57A3A9A6E3AB0B4D0FFBFF7ACE17A4DBDB ();
+// 0x0000004A System.Single WebVRController::GetAxis(System.String)
+extern void WebVRController_GetAxis_mFB20B592D7C94E8AE477DF8CDF2CEE3CA9C0627E ();
+// 0x0000004B System.Boolean WebVRController::GetButton(System.String)
+extern void WebVRController_GetButton_mDF1CCB7488ED1AA7A6E4F5598E9399FE98E02536 ();
+// 0x0000004C System.Boolean WebVRController::GetPastButtonState(System.String)
+extern void WebVRController_GetPastButtonState_m31F293810BC6F232071C3DE3C380329A2E28B08B ();
+// 0x0000004D System.Void WebVRController::SetButtonState(System.String,System.Boolean,System.Single)
+extern void WebVRController_SetButtonState_m2DB5D42FB8EE94A73EB9B9FF87611ADFDA801DEE ();
+// 0x0000004E System.Void WebVRController::SetPastButtonState(System.String,System.Boolean)
+extern void WebVRController_SetPastButtonState_m1E63D8333619EA5AA84904DF71F560807B59BD7B ();
+// 0x0000004F System.Boolean WebVRController::GetButtonDown(System.String)
+extern void WebVRController_GetButtonDown_m218073BAAD51591B971E3E5AA562E90EA6381B9A ();
+// 0x00000050 System.Boolean WebVRController::GetButtonUp(System.String)
+extern void WebVRController_GetButtonUp_m359BF3812818756A5F342A92B4DB5202B5CAF791 ();
+// 0x00000051 System.Void WebVRController::onHeadsetUpdate(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
+extern void WebVRController_onHeadsetUpdate_m0F6C9EAEE326BEED02286C72DE10E835B42196BC ();
+// 0x00000052 System.Void WebVRController::onControllerUpdate(System.String,System.Int32,System.String,System.Boolean,System.Boolean,UnityEngine.Quaternion,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,WebVRControllerButton[],System.Single[])
+extern void WebVRController_onControllerUpdate_m4C7FD53562AFE35CEE84DC7B896432B66047A70A ();
+// 0x00000053 WebVRControllerHand WebVRController::handFromString(System.String)
+extern void WebVRController_handFromString_mFD041E9A4C0C646E26ADBD81DEC2594DBCFF3784 ();
+// 0x00000054 System.Void WebVRController::SetVisible(System.Boolean)
+extern void WebVRController_SetVisible_m10064871282D9E9FB690E6AC931BE8E520FF9175 ();
+// 0x00000055 UnityEngine.Vector3 WebVRController::applyArmModel(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Quaternion)
+extern void WebVRController_applyArmModel_m5227A61F6D84D387A31E3F08DBEE774F7535AAD8 ();
+// 0x00000056 System.Void WebVRController::Update()
+extern void WebVRController_Update_m0CEC61F372BFA2BDE21820E6FFB638A2A892821A ();
+// 0x00000057 System.Void WebVRController::OnEnable()
+extern void WebVRController_OnEnable_m2A54222BD793F8653561A632B8976698A7E541F0 ();
+// 0x00000058 System.Void WebVRController::OnDisabled()
+extern void WebVRController_OnDisabled_m5D608EA19C38D2C8C1FF9C5A24E6F187F9CFB69B ();
+// 0x00000059 System.Void WebVRController::.ctor()
+extern void WebVRController__ctor_mE41E608BFFD744A1165FAAF31444BB9C7F7EE80E ();
+// 0x0000005A System.Void WebVRControllerData::.ctor()
+extern void WebVRControllerData__ctor_mA6983E6836599D059C7192EB9D82CF045D2D3459 ();
+// 0x0000005B System.Void WebVRControllerInputMap::.ctor()
+extern void WebVRControllerInputMap__ctor_m74D571187ABDF2072D29DB3804964358AC22BA88 ();
+// 0x0000005C System.Void WebVRControllerInput::.ctor()
+extern void WebVRControllerInput__ctor_m15CEF8B2104EE58AFD8CE84E06521DE01CB295AE ();
+// 0x0000005D WebVRData WebVRData::CreateFromJSON(System.String)
+extern void WebVRData_CreateFromJSON_mF41E2A69C653DFACFDB1FAD1E5DC196ECB2B4333 ();
+// 0x0000005E System.Void WebVRData::.ctor()
+extern void WebVRData__ctor_m5B912608AF0EFF9FF57675A57083D2454FFF5001 ();
+// 0x0000005F System.Void WebVRDisplayCapabilities::.ctor()
+extern void WebVRDisplayCapabilities__ctor_m0F7867529884D64A91CA7B69EDBC6061AAE67087 ();
+// 0x00000060 System.Void WebVRManager::add_OnVRCapabilitiesUpdate(WebVRManager_VRCapabilitiesUpdate)
+extern void WebVRManager_add_OnVRCapabilitiesUpdate_m493A5F9CE51405E7027EA7488D2CAAE4C03F216A ();
+// 0x00000061 System.Void WebVRManager::remove_OnVRCapabilitiesUpdate(WebVRManager_VRCapabilitiesUpdate)
+extern void WebVRManager_remove_OnVRCapabilitiesUpdate_mB35E822BBEDEF7D5532C0FECFBE4C9698A2CB3F5 ();
+// 0x00000062 System.Void WebVRManager::add_OnVRChange(WebVRManager_VRChange)
+extern void WebVRManager_add_OnVRChange_m3BE37CD834C96EECD56CFC2D9B95AED389460857 ();
+// 0x00000063 System.Void WebVRManager::remove_OnVRChange(WebVRManager_VRChange)
+extern void WebVRManager_remove_OnVRChange_m06A004A539A99BC11E4D8466764EBC2E8CB37F15 ();
+// 0x00000064 System.Void WebVRManager::add_OnHeadsetUpdate(WebVRManager_HeadsetUpdate)
+extern void WebVRManager_add_OnHeadsetUpdate_m1A98270303B3D689804B9B55BF410D4276F6A31D ();
+// 0x00000065 System.Void WebVRManager::remove_OnHeadsetUpdate(WebVRManager_HeadsetUpdate)
+extern void WebVRManager_remove_OnHeadsetUpdate_m25D4DE758A58C4E1F39C4D1DBA5AB92D4BA9DA58 ();
+// 0x00000066 System.Void WebVRManager::add_OnControllerUpdate(WebVRManager_ControllerUpdate)
+extern void WebVRManager_add_OnControllerUpdate_mAA274B6CD1142CAF54005F61582A52A7E4AD2CBD ();
+// 0x00000067 System.Void WebVRManager::remove_OnControllerUpdate(WebVRManager_ControllerUpdate)
+extern void WebVRManager_remove_OnControllerUpdate_m6B43C7EF70D7BBFE334E06959079273089ACF0FA ();
+// 0x00000068 System.Void WebVRManager::ConfigureToggleVRKeyName(System.String)
+extern void WebVRManager_ConfigureToggleVRKeyName_m36D9707303B544499028E1D077A942866A41C543 ();
+// 0x00000069 System.Void WebVRManager::InitSharedArray(System.Single[],System.Int32)
+extern void WebVRManager_InitSharedArray_mE6458C155BCE62721D894BED1EE3EF8F7E68DEED ();
+// 0x0000006A System.Void WebVRManager::ListenWebVRData()
+extern void WebVRManager_ListenWebVRData_mF11C9DE8C80FEBA7C58A7B2C809329DF3F096118 ();
+// 0x0000006B WebVRManager WebVRManager::get_Instance()
+extern void WebVRManager_get_Instance_m314AD0C45E094A52DB4427274FD15C8B420FB6E4 ();
+// 0x0000006C System.Void WebVRManager::Awake()
+extern void WebVRManager_Awake_mD176B2304C96546AE9C55747A1A491CE61BDE3BE ();
+// 0x0000006D System.Void WebVRManager::SetTrackingSpaceType()
+extern void WebVRManager_SetTrackingSpaceType_mEC39268094D6C3B5684FC7A7BCD7D96EB5BE29D3 ();
+// 0x0000006E System.Void WebVRManager::OnWebVRData(System.String)
+extern void WebVRManager_OnWebVRData_mA6AAA4B8BEED299C8A0B02932C875FCBE5AE3587 ();
+// 0x0000006F System.Void WebVRManager::OnVRCapabilities(System.String)
+extern void WebVRManager_OnVRCapabilities_m09965D4CE9722132EA8DD82A99F3FD9C02AE61E1 ();
+// 0x00000070 System.Void WebVRManager::OnVRCapabilities(WebVRDisplayCapabilities)
+extern void WebVRManager_OnVRCapabilities_mCD601CF1AC5F72BC6B4B4487F84CA2ADBC285380 ();
+// 0x00000071 System.Void WebVRManager::toggleVrState()
+extern void WebVRManager_toggleVrState_m7207190A4E49BC2C61BE8E9F2E8817325AB919B8 ();
+// 0x00000072 System.Void WebVRManager::setVrState(WebVRState)
+extern void WebVRManager_setVrState_mBB081C7B96C84851EFAF9C9F33161B6AEAEA87D4 ();
+// 0x00000073 System.Void WebVRManager::OnStartVR()
+extern void WebVRManager_OnStartVR_m20761975BF809BFFD73B6F50835F4D6EF2248002 ();
+// 0x00000074 System.Void WebVRManager::OnEndVR()
+extern void WebVRManager_OnEndVR_m9C91ABA143D5C80CA9B986C98FBB6361B6B4AC50 ();
+// 0x00000075 System.Single[] WebVRManager::GetFromSharedArray(System.Int32)
+extern void WebVRManager_GetFromSharedArray_mECA240E0E08782984DDBCBAD36E8BD5743D7052C ();
+// 0x00000076 System.Void WebVRManager::Start()
+extern void WebVRManager_Start_m5F1042CF6B29C86450AAEA572346033BA5D83F1D ();
+// 0x00000077 System.Void WebVRManager::Update()
+extern void WebVRManager_Update_mC1E2C246484A8B2A42C148C212EC71B484FA0C77 ();
+// 0x00000078 System.Void WebVRManager::LateUpdate()
+extern void WebVRManager_LateUpdate_m3C0516331DB302707998CD40BB34750D43CB22BC ();
+// 0x00000079 System.Void WebVRManager::.ctor()
+extern void WebVRManager__ctor_m678D773263FF9796F19D2B276509F83757362538 ();
+// 0x0000007A System.Void WebVRManager::.cctor()
+extern void WebVRManager__cctor_m8E923B32B1CC0DF4D718C54182BCFC3DCCE0CEE3 ();
+// 0x0000007B System.Void WebVRMatrixUtil::SetTransformFromViewMatrix(UnityEngine.Transform,UnityEngine.Matrix4x4)
+extern void WebVRMatrixUtil_SetTransformFromViewMatrix_m49319A3465CFF16DBF008A6877D87B2B9C2DDF3A ();
+// 0x0000007C UnityEngine.Matrix4x4 WebVRMatrixUtil::TransformViewMatrixToTRS(UnityEngine.Matrix4x4)
+extern void WebVRMatrixUtil_TransformViewMatrixToTRS_m5501AB6C01C99CA9B949793FCA8CEF0CD821FF00 ();
+// 0x0000007D UnityEngine.Vector3 WebVRMatrixUtil::GetTranslationFromMatrix(UnityEngine.Matrix4x4)
+extern void WebVRMatrixUtil_GetTranslationFromMatrix_m470B60D6D07CFBC70BE1EE080A1AF2FA7239E208 ();
+// 0x0000007E UnityEngine.Quaternion WebVRMatrixUtil::GetRotationFromMatrix(UnityEngine.Matrix4x4)
+extern void WebVRMatrixUtil_GetRotationFromMatrix_m1D06C56D170489624B981EDB33DCF58DD2684CE7 ();
+// 0x0000007F UnityEngine.Matrix4x4 WebVRMatrixUtil::NumbersToMatrix(System.Single[])
+extern void WebVRMatrixUtil_NumbersToMatrix_m2659F887F9C4FA3EE0CCAE1E81A84F74CDD0F1D3 ();
+// 0x00000080 System.Void WebVRUI::displayElementId(System.String)
+extern void WebVRUI_displayElementId_m99BEF9F5B15B797EF188A1BBFE390A778F8069DC ();
+// 0x00000081 System.Void WebVRUI::.ctor()
+extern void WebVRUI__ctor_mFF1760F55B194F2FA2BF8A380E72FB38EB5F9E93 ();
+// 0x00000082 System.Void FadeToBlack_<Fade>d__10::.ctor(System.Int32)
+extern void U3CFadeU3Ed__10__ctor_m91980A95DE69F48B9C990544420D76B90938A1CD ();
+// 0x00000083 System.Void FadeToBlack_<Fade>d__10::System.IDisposable.Dispose()
+extern void U3CFadeU3Ed__10_System_IDisposable_Dispose_m882558CCF813279F401DDABC64A9BEC23E9B931A ();
+// 0x00000084 System.Boolean FadeToBlack_<Fade>d__10::MoveNext()
+extern void U3CFadeU3Ed__10_MoveNext_m5EF9C85239EA73E9577B9B1F2615F0B0E9A8B643 ();
+// 0x00000085 System.Object FadeToBlack_<Fade>d__10::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CFadeU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m78EAC80D89FF01A006FD7220E4C278177FB53A9D ();
+// 0x00000086 System.Void FadeToBlack_<Fade>d__10::System.Collections.IEnumerator.Reset()
+extern void U3CFadeU3Ed__10_System_Collections_IEnumerator_Reset_mFEB693D2EA5DE038B30B7E3DC8EDB955BD92CF5F ();
+// 0x00000087 System.Object FadeToBlack_<Fade>d__10::System.Collections.IEnumerator.get_Current()
+extern void U3CFadeU3Ed__10_System_Collections_IEnumerator_get_Current_m721523BA91310DEDC197066D383368251D8FB06B ();
+// 0x00000088 System.Void FadeToBlack_<ShowText>d__11::.ctor(System.Int32)
+extern void U3CShowTextU3Ed__11__ctor_mF3FE4F4BC5AA341AAB2B6A68D98F5360F49F6B85 ();
+// 0x00000089 System.Void FadeToBlack_<ShowText>d__11::System.IDisposable.Dispose()
+extern void U3CShowTextU3Ed__11_System_IDisposable_Dispose_mC499FB4F11C92211D74BB544F9D7ADBCB42B1FF2 ();
+// 0x0000008A System.Boolean FadeToBlack_<ShowText>d__11::MoveNext()
+extern void U3CShowTextU3Ed__11_MoveNext_m0A51DAF8107BA040C0A15A5CB3002F8A5C077574 ();
+// 0x0000008B System.Object FadeToBlack_<ShowText>d__11::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CShowTextU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m6BB55E7F765AC235AB213929CBC00D0D2F66AD7D ();
+// 0x0000008C System.Void FadeToBlack_<ShowText>d__11::System.Collections.IEnumerator.Reset()
+extern void U3CShowTextU3Ed__11_System_Collections_IEnumerator_Reset_m2B5F5A383A6E086FCC630F3F1CEA87467A871CFE ();
+// 0x0000008D System.Object FadeToBlack_<ShowText>d__11::System.Collections.IEnumerator.get_Current()
+extern void U3CShowTextU3Ed__11_System_Collections_IEnumerator_get_Current_mC73B8BC239EE97800CB35A796D425D4F6368D140 ();
+// 0x0000008E System.Void WindowAnimTimingManager_<StopOpening>d__8::.ctor(System.Int32)
+extern void U3CStopOpeningU3Ed__8__ctor_m6F64010599103857FBBB135BB10FFB5FBEC676D4 ();
+// 0x0000008F System.Void WindowAnimTimingManager_<StopOpening>d__8::System.IDisposable.Dispose()
+extern void U3CStopOpeningU3Ed__8_System_IDisposable_Dispose_m16C871C273A6664CAAFB86BC04DE612824900B36 ();
+// 0x00000090 System.Boolean WindowAnimTimingManager_<StopOpening>d__8::MoveNext()
+extern void U3CStopOpeningU3Ed__8_MoveNext_mFD662D27B0123CED82A1A39B22496E09645CD758 ();
+// 0x00000091 System.Object WindowAnimTimingManager_<StopOpening>d__8::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CStopOpeningU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB808C439D415C4C96C817B4558A5583BC06E21A7 ();
+// 0x00000092 System.Void WindowAnimTimingManager_<StopOpening>d__8::System.Collections.IEnumerator.Reset()
+extern void U3CStopOpeningU3Ed__8_System_Collections_IEnumerator_Reset_m8D1E595981006C8956392BE330C7F88458C129BD ();
+// 0x00000093 System.Object WindowAnimTimingManager_<StopOpening>d__8::System.Collections.IEnumerator.get_Current()
+extern void U3CStopOpeningU3Ed__8_System_Collections_IEnumerator_get_Current_mBF94B58832751343EDB8D8DCBB9EA80D5F79BDE2 ();
+// 0x00000094 System.Void WebVRCamera_<endOfFrame>d__5::.ctor(System.Int32)
+extern void U3CendOfFrameU3Ed__5__ctor_m0180D0C6D70E648CC88182FE2AF652A57DDCD3D1 ();
+// 0x00000095 System.Void WebVRCamera_<endOfFrame>d__5::System.IDisposable.Dispose()
+extern void U3CendOfFrameU3Ed__5_System_IDisposable_Dispose_m8B0A7BFAB345AF9486AFD1AF492B34EBBCA2AC96 ();
+// 0x00000096 System.Boolean WebVRCamera_<endOfFrame>d__5::MoveNext()
+extern void U3CendOfFrameU3Ed__5_MoveNext_mCC4607DA6E00193854D66570C03A1958BC8B313D ();
+// 0x00000097 System.Object WebVRCamera_<endOfFrame>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CendOfFrameU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m22D00D27AD6A728A05B0614F4B8C7CCE45FBBD17 ();
+// 0x00000098 System.Void WebVRCamera_<endOfFrame>d__5::System.Collections.IEnumerator.Reset()
+extern void U3CendOfFrameU3Ed__5_System_Collections_IEnumerator_Reset_mE33F1E150E8933198475E32541EC13744AB2AC33 ();
+// 0x00000099 System.Object WebVRCamera_<endOfFrame>d__5::System.Collections.IEnumerator.get_Current()
+extern void U3CendOfFrameU3Ed__5_System_Collections_IEnumerator_get_Current_m5C6DC86F34ECCBFDB30B629EF0970C80857BB799 ();
+// 0x0000009A System.Void WebVRManager_VRCapabilitiesUpdate::.ctor(System.Object,System.IntPtr)
+extern void VRCapabilitiesUpdate__ctor_m39F18278E15F8BBF545B43A1F55AEDFFB9C56297 ();
+// 0x0000009B System.Void WebVRManager_VRCapabilitiesUpdate::Invoke(WebVRDisplayCapabilities)
+extern void VRCapabilitiesUpdate_Invoke_m02AE1673EFE2B80F2128F678AABCF72E56E72D0C ();
+// 0x0000009C System.IAsyncResult WebVRManager_VRCapabilitiesUpdate::BeginInvoke(WebVRDisplayCapabilities,System.AsyncCallback,System.Object)
+extern void VRCapabilitiesUpdate_BeginInvoke_mE006A5ABC520DB5E06A51B2833E1B3F5A40AA7C5 ();
+// 0x0000009D System.Void WebVRManager_VRCapabilitiesUpdate::EndInvoke(System.IAsyncResult)
+extern void VRCapabilitiesUpdate_EndInvoke_mC7E457F19A0A6D143F1C4AE19AA8D3F1347E23EF ();
+// 0x0000009E System.Void WebVRManager_VRChange::.ctor(System.Object,System.IntPtr)
+extern void VRChange__ctor_m791E12A661A7B326B482859A67215F596220BCE2 ();
+// 0x0000009F System.Void WebVRManager_VRChange::Invoke(WebVRState)
+extern void VRChange_Invoke_mAFB6FC25B2BA604D1CAE9590561B4AD8F283278D ();
+// 0x000000A0 System.IAsyncResult WebVRManager_VRChange::BeginInvoke(WebVRState,System.AsyncCallback,System.Object)
+extern void VRChange_BeginInvoke_m6759A570006DB22F28788AF539097309CFE2CBF7 ();
+// 0x000000A1 System.Void WebVRManager_VRChange::EndInvoke(System.IAsyncResult)
+extern void VRChange_EndInvoke_m742A14EA3D8312B4F01181293ACB7E8BB2538447 ();
+// 0x000000A2 System.Void WebVRManager_HeadsetUpdate::.ctor(System.Object,System.IntPtr)
+extern void HeadsetUpdate__ctor_m09930D1B04159BFB9E53E4A8B51E152CED4EE687 ();
+// 0x000000A3 System.Void WebVRManager_HeadsetUpdate::Invoke(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
+extern void HeadsetUpdate_Invoke_mC36F6E24A376E6D05AE78A47CA482EBF843D72D0 ();
+// 0x000000A4 System.IAsyncResult WebVRManager_HeadsetUpdate::BeginInvoke(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,System.AsyncCallback,System.Object)
+extern void HeadsetUpdate_BeginInvoke_mBF5CDA5A1E433A5A403E883205368262EF2CBB48 ();
+// 0x000000A5 System.Void WebVRManager_HeadsetUpdate::EndInvoke(System.IAsyncResult)
+extern void HeadsetUpdate_EndInvoke_m3F627D09D7A16E6855D321B2807C3ED6F18145D2 ();
+// 0x000000A6 System.Void WebVRManager_ControllerUpdate::.ctor(System.Object,System.IntPtr)
+extern void ControllerUpdate__ctor_mA016A798D51B6E584CECFE8E99315F9AC6A464BD ();
+// 0x000000A7 System.Void WebVRManager_ControllerUpdate::Invoke(System.String,System.Int32,System.String,System.Boolean,System.Boolean,UnityEngine.Quaternion,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,WebVRControllerButton[],System.Single[])
+extern void ControllerUpdate_Invoke_m3EC6BDBC672B10CE9775A7CEF9BD3B65A1805487 ();
+// 0x000000A8 System.IAsyncResult WebVRManager_ControllerUpdate::BeginInvoke(System.String,System.Int32,System.String,System.Boolean,System.Boolean,UnityEngine.Quaternion,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,WebVRControllerButton[],System.Single[],System.AsyncCallback,System.Object)
+extern void ControllerUpdate_BeginInvoke_m80C7E05A01CC59038978ECD59E431C717FA13481 ();
+// 0x000000A9 System.Void WebVRManager_ControllerUpdate::EndInvoke(System.IAsyncResult)
+extern void ControllerUpdate_EndInvoke_mB27AC256220C6ABAB68E2EDD9E8209779A23B47A ();
+static Il2CppMethodPointer s_methodPointers[169] = 
+{
+	CameraCtrl_Start_m594A5ECE9B636F648ADF97F6D7E0F19F0F766DDA,
+	CameraCtrl_Update_m44A645567C4EA1FE9D83865C169AB3C4C85C6F33,
+	CameraCtrl__ctor_mE1958D51FC29F7FC95C26B541C488D51229D1E73,
+	SpinFree_Update_mC974FA7A4A4B8E839F1ED8E84706792851D2D0C8,
+	SpinFree__ctor_m7345DDA5D7F5CD913DF275DC836B90D3FBB5C714,
+	BrightnessControl_Start_m7E584731FD2B9F0829D2C31F593DAEA9F651A7CF,
+	BrightnessControl_Update_m681AC78FC216DEB481134C6E01207E89FB040244,
+	BrightnessControl__ctor_m0E3913E689552E4D5531201A011E6A1B1634D99E,
+	ButtonControl_Start_m9CBD95F2112C11CA4941275B5950010C66BC5794,
+	ButtonControl_OnTriggerEnter_m0A1345E51DDACB8A2F3A6A3A642A34DC94C84AF2,
+	ButtonControl__ctor_mD4415647A7E956D92750D2E75F6DB76707014075,
+	DimLights_Start_m58B1C9ABFAE518BB1D4BD56EFC15E2E1BA2E6238,
+	DimLights_Update_mF39CC93F44DC1B0578DF574BE4977A4E5EC1C2BB,
+	DimLights_Dim_mB15030C219254CDF737A94F4C890C873B75EC543,
+	DimLights__ctor_mF72E3A43C9A34FAA147DB45D306A7D7DD093BBAA,
+	DoorOpen_Start_mD66A6FE0665F46B9C8B499149597BDB62F17DD80,
+	DoorOpen_Update_m4C9D2FE83E7583D91529A8AD8E305BBE7ED4B6E8,
+	DoorOpen_OnTriggerEnter_mB59819C2D344EFF58D5EF50FAD5F815C31C0D9DB,
+	DoorOpen__ctor_mD8599BA8CF3E7C79156EABCB28F4F1CDFDB76BE7,
+	FadeToBlack_Start_m1A7AEB3B03C79037BB694216FE95472BF825FA65,
+	FadeToBlack_Update_mD132AED2FEDC2C3A136D0920ED11F469C6B475B6,
+	FadeToBlack_Fade_m5369B671123E2905933C1D3A956880BCB092C79B,
+	FadeToBlack_ShowText_mAFD3AAF9AA20E6ADE51AD7639265AF1312A11BA8,
+	FadeToBlack_StartFade_mD51F891B964DEE1548B4F875297776501F19F8C4,
+	FadeToBlack__ctor_mE32C63ACFBDEBC50AFB0BE40EB49A4BD7D554FD6,
+	GenerateStars_Generate_m98C616F09F9126E101B1656C405F8F51042C1AB1,
+	GenerateStars__ctor_m4252624FD53209C46692B10B5EF1F7C34A92C473,
+	GuardianSystem_Update_m11EA648195F4F336848D33FCC2F2FF329E012849,
+	GuardianSystem__ctor_m6C894486BBA0871505B7DAE0D8B0ADEB3083BCA9,
+	Tags__ctor_mE9B3DD2F3E217D37BFD97436E9795B8E5BA34EB6,
+	Tags__cctor_m5E3FDDDC038729C1A49F1C347BDD5BB33F5F485E,
+	LightControl_Start_m1AC70EE623BFBAD8F163047DE739FC7B58571972,
+	LightControl_Update_m2EB1E51D944428497D8C62F1CEA3A7784E371F03,
+	LightControl_TurnOn_m36850ACE2E99F141571DDE6CA6A8ECCEF57F249E,
+	LightControl_TurnOff_m03BD46A295BCDB36F52F96A95A2BAFEA6EE882DC,
+	LightControl__ctor_m84E66D44E6B64978E260AE9375417F6CD0CA51CE,
+	Orbit_Start_m29846F74CC9F6B37BEA12CE59F8ADF0AF1CC0F2A,
+	Orbit_Update_m8CC6526929FE2DCCFA5251E828DF4C34A4732717,
+	Orbit__ctor_m54BA8B11461437C0752FE2C51705B5F04C8E238D,
+	Translation_Update_mE73C7B0E78E8DE9DB7CF09BB75738A0314A50CE8,
+	Translation__ctor_m91DF264DC485E0399A3D9D7D4982E9CB7FF25C00,
+	WindowAnimTimingManager_Start_mA9CCC261EDDC875E1BB0D853BB756375F82E6C09,
+	WindowAnimTimingManager_Update_mFDE05CC818FC9B372F4C953CEC6C385D9845242E,
+	WindowAnimTimingManager_OpenWindow_mFD79703572F323D4696DD341E78C31473F84B4D9,
+	WindowAnimTimingManager_StopOpening_m98BDF31C1C9E1DE9EE3914BD6CEECE168046E9AF,
+	WindowAnimTimingManager__ctor_m89D7A5DC9CD35EE9AFDD5A8765A70C1C6EAECBD8,
+	ControllerInteraction_Awake_mFB4A5A18191FCBF605D8E1CE6899CAC9A5679555,
+	ControllerInteraction_Start_m4BB5530A205474C82C8372B5DC9741F7179E2741,
+	ControllerInteraction_Update_mCE9248283AA340DF1F988844D86FACD5CB51A9BB,
+	ControllerInteraction_OnTriggerEnter_m75AF0AF3C7B5B76D2D4B08A1B8B6714B6D7A9279,
+	ControllerInteraction_OnTriggerExit_mEA64F4ED316D64A41CA70B91E34E84845DB3B287,
+	ControllerInteraction_Pickup_mA6FEADA21A242FF3E1142F1EFD024E4A6DCC368D,
+	ControllerInteraction_Drop_m8FA92B45992D61BB952BB083718CB8614481F0C0,
+	ControllerInteraction_GetNearestRigidBody_m37FC4E2FAD2C631408B9260896A3BA7D27D72166,
+	ControllerInteraction__ctor_m4F47C52BB963AF8B68B4506363C31CCAC8CAB213,
+	FreeFlightController_get_inDesktopLike_mC9A1E4D4E94F317851AFECFC3B64E747A28D1DE1,
+	FreeFlightController_Start_m87B577A19AC9A922F18AA1543551E09CEE27834C,
+	FreeFlightController_onVRChange_mA0703B167869904CD74319D58705BD661EBEC9E1,
+	FreeFlightController_onVRCapabilitiesUpdate_mE624C4B3E509C2957152775D205645506333BD4B,
+	FreeFlightController_Update_mC06FCDC114F7887C9CC917C6495018D96ED80511,
+	FreeFlightController_DisableEverything_m1FCF4E33230A1ADA7E35BC8C84EB1DD1B442F19E,
+	FreeFlightController_EnableAccordingToPlatform_m251A6907A2F04B1AA39718EAB57496D8AE2A0897,
+	FreeFlightController_ClampAngle_mA92D255DC0CE6F488E2946CB5C8098387B7821A9,
+	FreeFlightController__ctor_m6844B029C16372F3CCABC9C288EAE7E129CE7F46,
+	WebVRCamera_PostRender_m6E39CC4ED91F421156AED0378E09DC104A4BBA0F,
+	WebVRCamera_endOfFrame_m668C40FF8018FC556F7ABF571C71D1A58DD71250,
+	WebVRCamera_OnEnable_mF1817E7123704779F5E622EE52F61994EE44CCCB,
+	WebVRCamera_Update_mCB406B843C1D2A660F1D49C08BF3275E3B1301A9,
+	WebVRCamera_onVRChange_m910E475D87AB74E44FE2BF99B2BA3AEE5FAC3031,
+	WebVRCamera_onHeadsetUpdate_mB48AB46C7D94551585E27FDEEE6C8939296A6B31,
+	WebVRCamera__ctor_m3E2A58E4681062DB9202FA6DEE80A19DFEE1858A,
+	WebVRControllerButton__ctor_mD0E47D00850C6296F2D829F03551D235DCB1C72E,
+	WebVRController_UpdateButtons_m47D14B57A3A9A6E3AB0B4D0FFBFF7ACE17A4DBDB,
+	WebVRController_GetAxis_mFB20B592D7C94E8AE477DF8CDF2CEE3CA9C0627E,
+	WebVRController_GetButton_mDF1CCB7488ED1AA7A6E4F5598E9399FE98E02536,
+	WebVRController_GetPastButtonState_m31F293810BC6F232071C3DE3C380329A2E28B08B,
+	WebVRController_SetButtonState_m2DB5D42FB8EE94A73EB9B9FF87611ADFDA801DEE,
+	WebVRController_SetPastButtonState_m1E63D8333619EA5AA84904DF71F560807B59BD7B,
+	WebVRController_GetButtonDown_m218073BAAD51591B971E3E5AA562E90EA6381B9A,
+	WebVRController_GetButtonUp_m359BF3812818756A5F342A92B4DB5202B5CAF791,
+	WebVRController_onHeadsetUpdate_m0F6C9EAEE326BEED02286C72DE10E835B42196BC,
+	WebVRController_onControllerUpdate_m4C7FD53562AFE35CEE84DC7B896432B66047A70A,
+	WebVRController_handFromString_mFD041E9A4C0C646E26ADBD81DEC2594DBCFF3784,
+	WebVRController_SetVisible_m10064871282D9E9FB690E6AC931BE8E520FF9175,
+	WebVRController_applyArmModel_m5227A61F6D84D387A31E3F08DBEE774F7535AAD8,
+	WebVRController_Update_m0CEC61F372BFA2BDE21820E6FFB638A2A892821A,
+	WebVRController_OnEnable_m2A54222BD793F8653561A632B8976698A7E541F0,
+	WebVRController_OnDisabled_m5D608EA19C38D2C8C1FF9C5A24E6F187F9CFB69B,
+	WebVRController__ctor_mE41E608BFFD744A1165FAAF31444BB9C7F7EE80E,
+	WebVRControllerData__ctor_mA6983E6836599D059C7192EB9D82CF045D2D3459,
+	WebVRControllerInputMap__ctor_m74D571187ABDF2072D29DB3804964358AC22BA88,
+	WebVRControllerInput__ctor_m15CEF8B2104EE58AFD8CE84E06521DE01CB295AE,
+	WebVRData_CreateFromJSON_mF41E2A69C653DFACFDB1FAD1E5DC196ECB2B4333,
+	WebVRData__ctor_m5B912608AF0EFF9FF57675A57083D2454FFF5001,
+	WebVRDisplayCapabilities__ctor_m0F7867529884D64A91CA7B69EDBC6061AAE67087,
+	WebVRManager_add_OnVRCapabilitiesUpdate_m493A5F9CE51405E7027EA7488D2CAAE4C03F216A,
+	WebVRManager_remove_OnVRCapabilitiesUpdate_mB35E822BBEDEF7D5532C0FECFBE4C9698A2CB3F5,
+	WebVRManager_add_OnVRChange_m3BE37CD834C96EECD56CFC2D9B95AED389460857,
+	WebVRManager_remove_OnVRChange_m06A004A539A99BC11E4D8466764EBC2E8CB37F15,
+	WebVRManager_add_OnHeadsetUpdate_m1A98270303B3D689804B9B55BF410D4276F6A31D,
+	WebVRManager_remove_OnHeadsetUpdate_m25D4DE758A58C4E1F39C4D1DBA5AB92D4BA9DA58,
+	WebVRManager_add_OnControllerUpdate_mAA274B6CD1142CAF54005F61582A52A7E4AD2CBD,
+	WebVRManager_remove_OnControllerUpdate_m6B43C7EF70D7BBFE334E06959079273089ACF0FA,
+	WebVRManager_ConfigureToggleVRKeyName_m36D9707303B544499028E1D077A942866A41C543,
+	WebVRManager_InitSharedArray_mE6458C155BCE62721D894BED1EE3EF8F7E68DEED,
+	WebVRManager_ListenWebVRData_mF11C9DE8C80FEBA7C58A7B2C809329DF3F096118,
+	WebVRManager_get_Instance_m314AD0C45E094A52DB4427274FD15C8B420FB6E4,
+	WebVRManager_Awake_mD176B2304C96546AE9C55747A1A491CE61BDE3BE,
+	WebVRManager_SetTrackingSpaceType_mEC39268094D6C3B5684FC7A7BCD7D96EB5BE29D3,
+	WebVRManager_OnWebVRData_mA6AAA4B8BEED299C8A0B02932C875FCBE5AE3587,
+	WebVRManager_OnVRCapabilities_m09965D4CE9722132EA8DD82A99F3FD9C02AE61E1,
+	WebVRManager_OnVRCapabilities_mCD601CF1AC5F72BC6B4B4487F84CA2ADBC285380,
+	WebVRManager_toggleVrState_m7207190A4E49BC2C61BE8E9F2E8817325AB919B8,
+	WebVRManager_setVrState_mBB081C7B96C84851EFAF9C9F33161B6AEAEA87D4,
+	WebVRManager_OnStartVR_m20761975BF809BFFD73B6F50835F4D6EF2248002,
+	WebVRManager_OnEndVR_m9C91ABA143D5C80CA9B986C98FBB6361B6B4AC50,
+	WebVRManager_GetFromSharedArray_mECA240E0E08782984DDBCBAD36E8BD5743D7052C,
+	WebVRManager_Start_m5F1042CF6B29C86450AAEA572346033BA5D83F1D,
+	WebVRManager_Update_mC1E2C246484A8B2A42C148C212EC71B484FA0C77,
+	WebVRManager_LateUpdate_m3C0516331DB302707998CD40BB34750D43CB22BC,
+	WebVRManager__ctor_m678D773263FF9796F19D2B276509F83757362538,
+	WebVRManager__cctor_m8E923B32B1CC0DF4D718C54182BCFC3DCCE0CEE3,
+	WebVRMatrixUtil_SetTransformFromViewMatrix_m49319A3465CFF16DBF008A6877D87B2B9C2DDF3A,
+	WebVRMatrixUtil_TransformViewMatrixToTRS_m5501AB6C01C99CA9B949793FCA8CEF0CD821FF00,
+	WebVRMatrixUtil_GetTranslationFromMatrix_m470B60D6D07CFBC70BE1EE080A1AF2FA7239E208,
+	WebVRMatrixUtil_GetRotationFromMatrix_m1D06C56D170489624B981EDB33DCF58DD2684CE7,
+	WebVRMatrixUtil_NumbersToMatrix_m2659F887F9C4FA3EE0CCAE1E81A84F74CDD0F1D3,
+	WebVRUI_displayElementId_m99BEF9F5B15B797EF188A1BBFE390A778F8069DC,
+	WebVRUI__ctor_mFF1760F55B194F2FA2BF8A380E72FB38EB5F9E93,
+	U3CFadeU3Ed__10__ctor_m91980A95DE69F48B9C990544420D76B90938A1CD,
+	U3CFadeU3Ed__10_System_IDisposable_Dispose_m882558CCF813279F401DDABC64A9BEC23E9B931A,
+	U3CFadeU3Ed__10_MoveNext_m5EF9C85239EA73E9577B9B1F2615F0B0E9A8B643,
+	U3CFadeU3Ed__10_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m78EAC80D89FF01A006FD7220E4C278177FB53A9D,
+	U3CFadeU3Ed__10_System_Collections_IEnumerator_Reset_mFEB693D2EA5DE038B30B7E3DC8EDB955BD92CF5F,
+	U3CFadeU3Ed__10_System_Collections_IEnumerator_get_Current_m721523BA91310DEDC197066D383368251D8FB06B,
+	U3CShowTextU3Ed__11__ctor_mF3FE4F4BC5AA341AAB2B6A68D98F5360F49F6B85,
+	U3CShowTextU3Ed__11_System_IDisposable_Dispose_mC499FB4F11C92211D74BB544F9D7ADBCB42B1FF2,
+	U3CShowTextU3Ed__11_MoveNext_m0A51DAF8107BA040C0A15A5CB3002F8A5C077574,
+	U3CShowTextU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m6BB55E7F765AC235AB213929CBC00D0D2F66AD7D,
+	U3CShowTextU3Ed__11_System_Collections_IEnumerator_Reset_m2B5F5A383A6E086FCC630F3F1CEA87467A871CFE,
+	U3CShowTextU3Ed__11_System_Collections_IEnumerator_get_Current_mC73B8BC239EE97800CB35A796D425D4F6368D140,
+	U3CStopOpeningU3Ed__8__ctor_m6F64010599103857FBBB135BB10FFB5FBEC676D4,
+	U3CStopOpeningU3Ed__8_System_IDisposable_Dispose_m16C871C273A6664CAAFB86BC04DE612824900B36,
+	U3CStopOpeningU3Ed__8_MoveNext_mFD662D27B0123CED82A1A39B22496E09645CD758,
+	U3CStopOpeningU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB808C439D415C4C96C817B4558A5583BC06E21A7,
+	U3CStopOpeningU3Ed__8_System_Collections_IEnumerator_Reset_m8D1E595981006C8956392BE330C7F88458C129BD,
+	U3CStopOpeningU3Ed__8_System_Collections_IEnumerator_get_Current_mBF94B58832751343EDB8D8DCBB9EA80D5F79BDE2,
+	U3CendOfFrameU3Ed__5__ctor_m0180D0C6D70E648CC88182FE2AF652A57DDCD3D1,
+	U3CendOfFrameU3Ed__5_System_IDisposable_Dispose_m8B0A7BFAB345AF9486AFD1AF492B34EBBCA2AC96,
+	U3CendOfFrameU3Ed__5_MoveNext_mCC4607DA6E00193854D66570C03A1958BC8B313D,
+	U3CendOfFrameU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m22D00D27AD6A728A05B0614F4B8C7CCE45FBBD17,
+	U3CendOfFrameU3Ed__5_System_Collections_IEnumerator_Reset_mE33F1E150E8933198475E32541EC13744AB2AC33,
+	U3CendOfFrameU3Ed__5_System_Collections_IEnumerator_get_Current_m5C6DC86F34ECCBFDB30B629EF0970C80857BB799,
+	VRCapabilitiesUpdate__ctor_m39F18278E15F8BBF545B43A1F55AEDFFB9C56297,
+	VRCapabilitiesUpdate_Invoke_m02AE1673EFE2B80F2128F678AABCF72E56E72D0C,
+	VRCapabilitiesUpdate_BeginInvoke_mE006A5ABC520DB5E06A51B2833E1B3F5A40AA7C5,
+	VRCapabilitiesUpdate_EndInvoke_mC7E457F19A0A6D143F1C4AE19AA8D3F1347E23EF,
+	VRChange__ctor_m791E12A661A7B326B482859A67215F596220BCE2,
+	VRChange_Invoke_mAFB6FC25B2BA604D1CAE9590561B4AD8F283278D,
+	VRChange_BeginInvoke_m6759A570006DB22F28788AF539097309CFE2CBF7,
+	VRChange_EndInvoke_m742A14EA3D8312B4F01181293ACB7E8BB2538447,
+	HeadsetUpdate__ctor_m09930D1B04159BFB9E53E4A8B51E152CED4EE687,
+	HeadsetUpdate_Invoke_mC36F6E24A376E6D05AE78A47CA482EBF843D72D0,
+	HeadsetUpdate_BeginInvoke_mBF5CDA5A1E433A5A403E883205368262EF2CBB48,
+	HeadsetUpdate_EndInvoke_m3F627D09D7A16E6855D321B2807C3ED6F18145D2,
+	ControllerUpdate__ctor_mA016A798D51B6E584CECFE8E99315F9AC6A464BD,
+	ControllerUpdate_Invoke_m3EC6BDBC672B10CE9775A7CEF9BD3B65A1805487,
+	ControllerUpdate_BeginInvoke_m80C7E05A01CC59038978ECD59E431C717FA13481,
+	ControllerUpdate_EndInvoke_mB27AC256220C6ABAB68E2EDD9E8209779A23B47A,
+};
+static const int32_t s_InvokerIndices[169] = 
+{
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	26,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	26,
+	23,
+	23,
+	23,
+	1378,
+	14,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	3,
+	23,
+	23,
+	287,
+	287,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	287,
+	14,
+	23,
+	23,
+	23,
+	23,
+	26,
+	26,
+	23,
+	23,
+	14,
+	23,
+	114,
+	23,
+	32,
+	26,
+	23,
+	23,
+	23,
+	1155,
+	23,
+	3,
+	14,
+	23,
+	23,
+	32,
+	1463,
+	23,
+	1464,
+	26,
+	192,
+	9,
+	9,
+	1465,
+	396,
+	9,
+	9,
+	1463,
+	1466,
+	116,
+	31,
+	1467,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	23,
+	0,
+	23,
+	23,
+	26,
+	26,
+	26,
+	26,
+	26,
+	26,
+	26,
+	26,
+	122,
+	320,
+	3,
+	4,
+	23,
+	23,
+	26,
+	26,
+	26,
+	23,
+	32,
+	23,
+	23,
+	34,
+	23,
+	23,
+	23,
+	23,
+	3,
+	1470,
+	1125,
+	1471,
+	1472,
+	1473,
+	122,
+	23,
+	32,
+	23,
+	114,
+	14,
+	23,
+	14,
+	32,
+	23,
+	114,
+	14,
+	23,
+	14,
+	32,
+	23,
+	114,
+	14,
+	23,
+	14,
+	32,
+	23,
+	114,
+	14,
+	23,
+	14,
+	102,
+	26,
+	177,
+	26,
+	102,
+	32,
+	534,
+	26,
+	102,
+	1463,
+	1468,
+	26,
+	102,
+	1466,
+	1469,
+	26,
+};
+extern const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharpCodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	169,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};

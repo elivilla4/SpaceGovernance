@@ -118,7 +118,7 @@ public class DoorOpen : MonoBehaviour
             alarm.Pause();
             threatVO.Pause();
             //yeet satelight from existence
-            satelight.SetActive(false);
+            //satelight.SetActive(false);
         }
     }
 
